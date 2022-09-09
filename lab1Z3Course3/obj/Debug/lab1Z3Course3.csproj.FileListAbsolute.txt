@@ -1,0 +1,10 @@
+A:\Users\ntart\source\repos\lab1Z3Course3\lab1Z3Course3\bin\Debug\lab1Z3Course3.exe.config
+A:\Users\ntart\source\repos\lab1Z3Course3\lab1Z3Course3\bin\Debug\lab1Z3Course3.exe
+A:\Users\ntart\source\repos\lab1Z3Course3\lab1Z3Course3\bin\Debug\lab1Z3Course3.pdb
+A:\Users\ntart\source\repos\lab1Z3Course3\lab1Z3Course3\obj\Debug\lab1Z3Course3.csprojAssemblyReference.cache
+A:\Users\ntart\source\repos\lab1Z3Course3\lab1Z3Course3\obj\Debug\lab1Z3Course3.Form1.resources
+A:\Users\ntart\source\repos\lab1Z3Course3\lab1Z3Course3\obj\Debug\lab1Z3Course3.Properties.Resources.resources
+A:\Users\ntart\source\repos\lab1Z3Course3\lab1Z3Course3\obj\Debug\lab1Z3Course3.csproj.GenerateResource.cache
+A:\Users\ntart\source\repos\lab1Z3Course3\lab1Z3Course3\obj\Debug\lab1Z3Course3.csproj.CoreCompileInputs.cache
+A:\Users\ntart\source\repos\lab1Z3Course3\lab1Z3Course3\obj\Debug\lab1Z3Course3.exe
+A:\Users\ntart\source\repos\lab1Z3Course3\lab1Z3Course3\obj\Debug\lab1Z3Course3.pdb
